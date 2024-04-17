@@ -16,7 +16,7 @@ This tool allows you to perform deauthentication attacks on wireless networks. I
 ## Usage
 1. Ensure that you have the necessary permissions and dependencies installed.
 2. Run the script with the desired options, such as the network interface to use and whether to skip monitor mode setup
-3. Exemple how to run : python3 wifi-deauth.py -i wlan0
+3. Exemple how to run : python3 wifi-deauth.py -i wlan0 (where wlan0 is your wirless interface name)
 4. Follow the on-screen prompts to select a target AP and initiate the attack.
 
 
